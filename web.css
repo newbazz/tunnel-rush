@@ -1,0 +1,30 @@
+/* This is the CSS file for the given html*/
+body
+{
+    background-color: lightblue;
+}
+h3
+{
+    color: purple;
+    margin-left: 20px;
+}
+
+.left
+{
+    padding: 25px;
+    margin: 25px;
+    float: left;
+}
+
+.center
+{
+    padding: 25px;
+    margin: 25px;
+    float: center;
+}
+.right
+{
+    padding: 25px;
+    margin: 25px;
+    float: right;
+}
